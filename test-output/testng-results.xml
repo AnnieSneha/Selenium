@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-27T13:27:43 IST" name="Default suite" finished-at="2024-08-27T13:28:08 IST" duration-ms="25226">
+    <groups>
+      <group name="Sanity">
+        <method signature="ExtentReports1.Searchiphone()[pri:0, instance:testNg.ExtentReports1@68c9133c]" name="Searchiphone" class="testNg.ExtentReports1"/>
+      </group> <!-- Sanity -->
+      <group name="smoke">
+        <method signature="ExtentReports1.SearchTest()[pri:1, instance:testNg.ExtentReports1@68c9133c]" name="SearchTest" class="testNg.ExtentReports1"/>
+        <method signature="ExtentReports1.SearchTest2()[pri:1, instance:testNg.ExtentReports1@68c9133c]" name="SearchTest2" class="testNg.ExtentReports1"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-08-27T13:27:43 IST" name="Default test" finished-at="2024-08-27T13:28:08 IST" duration-ms="25226">
+      <class name="testNg.ExtentReports1">
+        <test-method is-config="true" signature="reportconfig()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:27:43 IST" name="reportconfig" finished-at="2024-08-27T13:27:43 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportconfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:27:43 IST" name="setup" finished-at="2024-08-27T13:27:48 IST" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Searchiphone()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:27:48 IST" name="Searchiphone" finished-at="2024-08-27T13:27:52 IST" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchiphone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:27:52 IST" name="teardown" finished-at="2024-08-27T13:27:52 IST" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:27:52 IST" name="setup" finished-at="2024-08-27T13:27:56 IST" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchTest()[pri:1, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:27:56 IST" name="SearchTest" finished-at="2024-08-27T13:27:59 IST" duration-ms="3233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:27:59 IST" name="teardown" finished-at="2024-08-27T13:28:00 IST" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:28:00 IST" name="setup" finished-at="2024-08-27T13:28:03 IST" duration-ms="2571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchTest2()[pri:1, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:28:03 IST" name="SearchTest2" finished-at="2024-08-27T13:28:07 IST" duration-ms="4548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:28:07 IST" name="teardown" finished-at="2024-08-27T13:28:08 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="flush()[pri:0, instance:testNg.ExtentReports1@68c9133c]" started-at="2024-08-27T13:28:08 IST" name="flush" finished-at="2024-08-27T13:28:08 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- testNg.ExtentReports1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
